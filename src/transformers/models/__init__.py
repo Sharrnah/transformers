@@ -178,6 +178,7 @@ from . import (
     roformer,
     rwkv,
     sam,
+    seamless_m4t,
     segformer,
     sew,
     sew_d,
